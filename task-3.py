@@ -9,5 +9,6 @@ print(sum)
 # код короче
 #n = int(input('Введите число от 1 до 9'))
 #nn = n * 11
-#nnn = n + nn + nnn
+#nnn=n * 111
+#sum = n + nn + nnn
 #print(sum)
