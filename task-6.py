@@ -3,6 +3,5 @@ b = int(input(' Введите количество киллометров ко�
 days = 1
 while a < b:
     days = days + 1
-    a += a + (a * 0.1)
-    print(a)
+    a = a + (a * 0.1)
 print(days)
